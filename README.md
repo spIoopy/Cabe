@@ -1,6 +1,6 @@
 # Cabe
 
-## An open-source code editor, built with Electron.
+### An open-source code editor, built with Electron.
 
 ## 🚀 Overview
 Cabe is an open-source code editor developed using Electron, designed to provide a versatile and customizable platform for developers to write and manage their code efficiently. This README provides an overview of the features, installation process, and usage instructions for Cabe.
